@@ -16,11 +16,11 @@
 | 6   | Budapest - Székesfehérvár        | HUN       | 90  | 360       | [Strecke in GPX.Studio ansehen](https://gpx.studio/de/app?files=%5B%22https%3A%2F%2Fraw.githubusercontent.com%2Fmartingasseriml%2Fsultans%2Fmain%2Fteil1%2Fst_06.gpx%22%5D) | Sa 15.8.26 |
 | 7   | Székesfehérvár - Szekszárd       | HUN       | 117 | 321       | [Strecke in GPX.Studio ansehen](https://gpx.studio/de/app?files=%5B%22https%3A%2F%2Fraw.githubusercontent.com%2Fmartingasseriml%2Fsultans%2Fmain%2Fteil1%2Fst_07.gpx%22%5D) | So 16.8.26 |
 | 8   | Szekszárd - Osijek               | HUN - HRV | 105 | 330       | [Strecke in GPX.Studio ansehen](https://gpx.studio/de/app?files=%5B%22https%3A%2F%2Fraw.githubusercontent.com%2Fmartingasseriml%2Fsultans%2Fmain%2Fteil1%2Fst_08.gpx%22%5D) | Mo 17.8.26 |
-| 9   | Osijek -  Bačka Palanka          | SRB       | 113 | 130       | [Strecke in GPX.Studio ansehen](https://gpx.studio/de/app?files=%5B%22https%3A%2F%2Fraw.githubusercontent.com%2Fmartingasseriml%2Fsultans%2Fmain%2Fteil1%2Fst_09.gpx%22%5D) | Di 18.8.26 Stop in Vukovar |
+| 9   | Osijek -  Bačka Palanka          | SRB       | 107 | 400       | [Strecke in GPX.Studio ansehen](https://gpx.studio/de/app?files=%5B%22https%3A%2F%2Fraw.githubusercontent.com%2Fmartingasseriml%2Fsultans%2Fmain%2Fteil1%2Fst_09.gpx%22%5D) | Di 18.8.26 Stop in Vukovar |
 | 10   | Bačka Palanka - Novi Sad        | SRB       | 50  | 50       | [Strecke in GPX.Studio ansehen](https://gpx.studio/de/app?files=%5B%22https%3A%2F%2Fraw.githubusercontent.com%2Fmartingasseriml%2Fsultans%2Fmain%2Fteil1%2Fst_10.gpx%22%5D) | Mi 19.8.26 Frühe Ankunft in Novi Sad |
 | 11   | Novi Sad - Belrgrad             | SRB       | 100 | 500       | [Strecke in GPX.Studio ansehen](https://gpx.studio/de/app?files=%5B%22https%3A%2F%2Fraw.githubusercontent.com%2Fmartingasseriml%2Fsultans%2Fmain%2Fteil1%2Fst_11.gpx%22%5D) | Do 20.8.26 |
 | 12   | Belgrad                         | SRB       | 0   | 0         |                  | Fr 21.8.26 Ruhetag / Rückreise Odi |
-| **Σ** | **Gesamt**      |      | **931** | **3200** | |
+| **Σ** | **Gesamt**      |      | **950** | **3600** | |
 
 
 ### Teil 2 ###
