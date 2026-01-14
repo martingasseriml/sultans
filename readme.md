@@ -7,6 +7,7 @@
 
 | Tag | Von - nach                       | Land      | KM  | HM (plus) | Link gpx.studio | Bemerkungen |
 |-----|----------------------------------|-----------|-----|-----------|-----------------|-------------|
+| 0   | Wien                             | A         |     | 0         |                 | So 09.08.26 Prepare!    |
 | 1   | Wien - Bratislava                | A - SVK   | 100 | 300       | [Strecke in GPX.Studio ansehen](https://gpx.studio/de/app?files=%5B%22https%3A%2F%2Fraw.githubusercontent.com%2Fmartingasseriml%2Fsultans%2Fmain%2Fteil1%2Fst_01.gpx%22%5D) | Mo 10.8.26 |
 | 2   | Bratislava - Gyor                | HUN       | 86  | 70        | [Strecke in GPX.Studio ansehen](https://gpx.studio/de/app?files=%5B%22https%3A%2F%2Fraw.githubusercontent.com%2Fmartingasseriml%2Fsultans%2Fmain%2Fteil1%2Fst_02.gpx%22%5D) | Di 11.8.26 |
 | 3   | Gyor - Esztergom                 | HUN       | 110 | 212       | [Strecke in GPX.Studio ansehen](https://gpx.studio/de/app?files=%5B%22https%3A%2F%2Fraw.githubusercontent.com%2Fmartingasseriml%2Fsultans%2Fmain%2Fteil1%2Fst_03.gpx%22%5D) | Mi 12.8.26|
