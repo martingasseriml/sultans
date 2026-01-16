@@ -27,4 +27,28 @@
 
 ## Belgrad nach Istanbul ##
 
-TBD
+Streckenunterteilung noch provisorisch
+
+| Tag | Von - nach                       | Land      | KM  | HM (plus) | Link gpx.studio | Bemerkungen |
+|-----|----------------------------------|-----------|-----|-----------|-----------------|-------------|
+| 0   | Belgrad                          | SRB       |     | 0         |                 | Sa 22.08.26 |
+| 13  | Belgrad - Smederevska Palanka    | SRB - SRB | 111 | 1160      | [Strecke in GPX.Studio ansehen](https://gpx.studio/de/app?files=%5B%22https%3A%2F%2Fraw.githubusercontent.com%2Fmartingasseriml%2Fsultans%2Fmain%2Fteil2%2Fst_13.gpx%22%5D) | So 23.8.26 |
+| 14  | Smederevska Palanka - Krusevac   | SRB - SRB | 118 | 620      | [Strecke in GPX.Studio ansehen](https://gpx.studio/de/app?files=%5B%22https%3A%2F%2Fraw.githubusercontent.com%2Fmartingasseriml%2Fsultans%2Fmain%2Fteil2%2Fst_14.gpx%22%5D) | Mo 24.8.26 |
+| 15  | Krusevac - Niš                   | SRB - SRB | 79  | 490      | [Strecke in GPX.Studio ansehen](https://gpx.studio/de/app?files=%5B%22https%3A%2F%2Fraw.githubusercontent.com%2Fmartingasseriml%2Fsultans%2Fmain%2Fteil2%2Fst_15.gpx%22%5D) | Di 25.8.26 |
+| 16  | Niš - Dimitrovgrad               | SRB - SRB | 103  | 980      | [Strecke in GPX.Studio ansehen](https://gpx.studio/de/app?files=%5B%22https%3A%2F%2Fraw.githubusercontent.com%2Fmartingasseriml%2Fsultans%2Fmain%2Fteil2%2Fst_16.gpx%22%5D) | Mi 26.8.26 |
+| 17  | Dimitrovgrad - Sofia             | SRB - BGR | 68   | 470      | [Strecke in GPX.Studio ansehen](https://gpx.studio/de/app?files=%5B%22https%3A%2F%2Fraw.githubusercontent.com%2Fmartingasseriml%2Fsultans%2Fmain%2Fteil2%2Fst_17.gpx%22%5D) | Do 27.8.26 |
+| 18  | Sofia                            | BGR       | 0    | 0        |      | Ruhetag Fr 28.8.26 |
+| 0   | Sofia                            | BGR       | 0    | 0        |      | Ruhetag Sa 29.8.26 |
+| 19  | Sofia - Pasardschik              | BGR - BGR | 136  | 880      | [Strecke in GPX.Studio ansehen](https://gpx.studio/de/app?files=%5B%22https%3A%2F%2Fraw.githubusercontent.com%2Fmartingasseriml%2Fsultans%2Fmain%2Fteil2%2Fst_19.gpx%22%5D) | So 30.8.26 |
+| 20  | Pasardschik - Plowdiw            | BGR - BGR | 50   | 20       | [Strecke in GPX.Studio ansehen](https://gpx.studio/de/app?files=%5B%22https%3A%2F%2Fraw.githubusercontent.com%2Fmartingasseriml%2Fsultans%2Fmain%2Fteil2%2Fst_20.gpx%22%5D) | Mo 31.8.26 |
+| 21  | Plowdiw - Chaskowo               | BGR - BGR | 100  | 550      | [Strecke in GPX.Studio ansehen](https://gpx.studio/de/app?files=%5B%22https%3A%2F%2Fraw.githubusercontent.com%2Fmartingasseriml%2Fsultans%2Fmain%2Fteil2%2Fst_21.gpx%22%5D) | Di 1.9.26 |
+| 22  | Chaskowo - Edirne                | BGR - GRC - TUR  | 127  | 660      | [Strecke in GPX.Studio ansehen](https://gpx.studio/de/app?files=%5B%22https%3A%2F%2Fraw.githubusercontent.com%2Fmartingasseriml%2Fsultans%2Fmain%2Fteil2%2Fst_22.gpx%22%5D) | Mi 2.9.26 |
+| 23  | Edirne                           | TUR       | 0    | 0        |       | Ruhetag Do 3.9.26 |
+| 0   | Edirne                           | TUR       | 0    | 0        |       | Ruhetag Fr 4.9.26 |
+| 24  | Edirne - Kırklareli              | TUR - TUR | 79   | 880      | [Strecke in GPX.Studio ansehen](https://gpx.studio/de/app?files=%5B%22https%3A%2F%2Fraw.githubusercontent.com%2Fmartingasseriml%2Fsultans%2Fmain%2Fteil2%2Fst_24.gpx%22%5D) | Sa 5.9.26 |
+| 25  | Kırklareli - Kemalpasa Saray     | TUR - TUR | 89   | 830      | [Strecke in GPX.Studio ansehen](https://gpx.studio/de/app?files=%5B%22https%3A%2F%2Fraw.githubusercontent.com%2Fmartingasseriml%2Fsultans%2Fmain%2Fteil2%2Fst_25.gpx%22%5D) | So 6.9.26 |
+| 26  | Kemalpasa Saray - Hadımköy       | TUR - TUR | 97   | 1100     | [Strecke in GPX.Studio ansehen](https://gpx.studio/de/app?files=%5B%22https%3A%2F%2Fraw.githubusercontent.com%2Fmartingasseriml%2Fsultans%2Fmain%2Fteil2%2Fst_26.gpx%22%5D) | Mo 7.9.26 |
+| 27  | Hadımköy Hastane - Istanbul      | TUR - TUR | 60   | 840     | [Strecke in GPX.Studio ansehen](https://gpx.studio/de/app?files=%5B%22https%3A%2F%2Fraw.githubusercontent.com%2Fmartingasseriml%2Fsultans%2Fmain%2Fteil2%2Fst_27.gpx%22%5D) | Di 8.9.26 |
+| 0   | Istanbul                         | TUR       | 0    | 0        |       | Mi 9.9.26   |
+| 0   | Istanbul                         | TUR       | 0    | 0        |       | Reserve     |
+| 0   | Istanbul - ZRH                   | TUR - CH  | 0    | 0        |       | Di 15.9.26  |
