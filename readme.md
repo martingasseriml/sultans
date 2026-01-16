@@ -52,3 +52,4 @@ Streckenunterteilung noch provisorisch
 | 0   | Istanbul                         | TUR       | 0    | 0        |       | Mi 9.9.26   |
 | 0   | Istanbul                         | TUR       | 0    | 0        |       | Reserve     |
 | 0   | Istanbul - ZRH                   | TUR - CH  | 0    | 0        |       | Di 15.9.26  |
+| **Σ** | **Gesamt**      |      | **1220** | **xxx** | |
