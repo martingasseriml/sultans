@@ -46,6 +46,7 @@ Streckenunterteilung noch provisorisch
 | 23  | Edirne                           | TUR       | 0    | 0        |       | Ruhetag Do 3.9.26 |
 | 0   | Edirne                           | TUR       | 0    | 0        |       | Ruhetag Fr 4.9.26 |
 | 24  | Edirne - Kırklareli              | TUR - TUR | 79   | 880      | [Strecke in GPX.Studio ansehen](https://gpx.studio/de/app?files=%5B%22https%3A%2F%2Fraw.githubusercontent.com%2Fmartingasseriml%2Fsultans%2Fmain%2Fteil2%2Fst_24.gpx%22%5D) | Sa 5.9.26 |
+| 24  | Alt. Edirne - Kırklareli         | TUR - TUR | 77   | 910      | [Strecke in GPX.Studio ansehen](https://gpx.studio/de/app?files=%5B%22https%3A%2F%2Fraw.githubusercontent.com%2Fmartingasseriml%2Fsultans%2Fmain%2Fteil2%2Fst_24a.gpx%22%5D) | Alternative Route EuroVelo 13 |
 | 25  | Kırklareli - Kemalpasa Saray     | TUR - TUR | 89   | 830      | [Strecke in GPX.Studio ansehen](https://gpx.studio/de/app?files=%5B%22https%3A%2F%2Fraw.githubusercontent.com%2Fmartingasseriml%2Fsultans%2Fmain%2Fteil2%2Fst_25.gpx%22%5D) | So 6.9.26 |
 | 26  | Kemalpasa Saray - Hadımköy       | TUR - TUR | 97   | 1100     | [Strecke in GPX.Studio ansehen](https://gpx.studio/de/app?files=%5B%22https%3A%2F%2Fraw.githubusercontent.com%2Fmartingasseriml%2Fsultans%2Fmain%2Fteil2%2Fst_26.gpx%22%5D) | Mo 7.9.26 |
 | 27  | Hadımköy Hastane - Istanbul      | TUR - TUR | 60   | 840     | [Strecke in GPX.Studio ansehen](https://gpx.studio/de/app?files=%5B%22https%3A%2F%2Fraw.githubusercontent.com%2Fmartingasseriml%2Fsultans%2Fmain%2Fteil2%2Fst_27.gpx%22%5D) | Di 8.9.26 |
