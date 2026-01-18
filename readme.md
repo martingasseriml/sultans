@@ -69,4 +69,4 @@
 
 | Tag | Von - nach                       | Land      | KM  | HM (plus) | Link gpx.studio | Bemerkungen |
 |-----|----------------------------------|-----------|-----|-----------|-----------------|-------------|
-| 0   | Kırklareli - Istanbul            | TUR       | 224 | 2280      | [Strecke in GPX.Studio ansehen](https://gpx.studio/de/app?files=%5B%22https%3A%2F%2Fraw.githubusercontent.com%2Fmartingasseriml%2Fsultans%2Fmain%2Falt%2Fistanbul.gpx%22%5D)                |             |
+| 0   | Saray - Istanbul                 | TUR       | 150 | 1690      | [Strecke in GPX.Studio ansehen](https://gpx.studio/de/app?files=%5B%22https%3A%2F%2Fraw.githubusercontent.com%2Fmartingasseriml%2Fsultans%2Fmain%2Falt%2Fistanbul.gpx%22%5D)                |             |
