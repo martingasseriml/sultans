@@ -22,9 +22,9 @@
 
 ## Kleider
 - Regenschutz
-- Windstopper (gelb)
-- Trainerjacke (blau)
-- Assos Velohose (2×?)
+- Windstopper
+- Trainerjacke
+- Velohose
 - Badehose
 - Hose lang
 - Veloschuhe
