@@ -18,24 +18,26 @@
 - Handschuhe (Latex)
 - Kettenöl
 - Ersatz-Schraubenset
-- Velofett?
+- Velofett
+- Pumpe
 
 ## Kleider
 - Regenschutz
 - Windstopper
 - Trainerjacke
-- Velohose
+- Velohose(n)
 - Badehose
 - Hose lang
+- Hose kurz
 - Veloschuhe
 - Sandalen
 - Unterhosen
-- Socken
+- Socken (Velo-)
 - Armlinge
 - Beinlinge
 - Handschuhe (kurz)
 - Handschuhe (lang)
-- Jacke Fjällräven
+- Jacke
 - Hut
 - Sonnenschutz (Nacken)
 - Veloshirt
@@ -60,7 +62,7 @@
 - Zusatzgetränk
 - Pass
 - Krankenkassenkarte
-- Bargeld
+- Bargeld / Devisen
 - Zugticket
 - Flugticket
 - Filzstift
@@ -68,3 +70,4 @@
 - Kopfhörer
 - Roaming-SIM (BNE eSIM)
 - Leuchtweste
+- Trinkflaschen
