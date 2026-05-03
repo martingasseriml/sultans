@@ -46,6 +46,7 @@
 
 ## Divers
 - Sonnencreme
+- Sonnenbrille
 - Sitzcreme
 - Necessaire
 - Schnur
