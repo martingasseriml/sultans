@@ -75,3 +75,4 @@
 - Roaming-SIM (BNE eSIM)
 - Leuchtweste
 - Trinkflaschen
+- Powerbank
