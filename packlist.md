@@ -30,6 +30,8 @@
 - Hose lang
 - Hose kurz
 - Veloschuhe
+- Überzieher für Veloschuhe
+- Velohelm
 - Sandalen
 - Unterhosen
 - Socken (Velo-)
@@ -46,7 +48,7 @@
 
 ## Divers
 - Sonnencreme
-- Sonnenbrille
+- Sonnenbrille (Brille, Etui, Kontaktlinsen)
 - Sitzcreme
 - Necessaire
 - Schnur
@@ -68,6 +70,7 @@
 - Flugticket
 - Filzstift
 - Waschmittel
+- Seidenschlafsack?
 - Kopfhörer
 - Roaming-SIM (BNE eSIM)
 - Leuchtweste
