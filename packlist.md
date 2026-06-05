@@ -65,6 +65,7 @@
 - Zusatzgetränk
 - Pass
 - Krankenkassenkarte
+- Internationaler Impfausweis
 - Bargeld / Devisen
 - Zugticket
 - Flugticket
