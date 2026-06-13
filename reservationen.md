@@ -2,6 +2,9 @@
 
 ## Reservationen
 
+## Teil1
+
+
 | Tag         | Ort                              | Was                               | URL                                   | Preis tot |
 |-------------|----------------------------------|-----------------------------------|---------------------------------------|-----------|
 | 09.08.26    | Wien                             | Hotel, 3 Bett, FS inkl            | https://www.booking.com/Share-UGlGeC  | 160 CHF   |
@@ -20,4 +23,11 @@
 | oder        |                                  |            |                                       |             |
 | 20.08.26    | Belgrad                          | Hausboot, 3 Bett Apart, FS inkl   | https://www.booking.com/Share-yjLLGo  |  88 CHF   |
 | 21.08.26    | Belgrad                          | Hausboot, 3 Bett Apart, FS inkl   | https://www.booking.com/Share-yjLLGo  |  88 CHF   |
+
+
+## Teil2
+| Tag         | Ort                              | Was                               | URL                                   | Preis tot |
+|-------------|----------------------------------|-----------------------------------|---------------------------------------|-----------|
+| 27.08.26, 3 Nächte    | Sofia                          | WHG, 2 Schlafzimmer, Waschmach   | https://www.airbnb.ch/rooms/1196360940180739495  |     |
+
 
