@@ -8,8 +8,7 @@
 |     | Krusevac                         |  Garni Hotel Biser                | https://www.booking.com/Share-nkRMxtz |           |
 |     | Niš                              |  Garni Hotel Konsul               | https://www.booking.com/Share-rEyogeE |           |
 |     | Dimitrovgrad                     |  Bungalow                         | https://www.booking.com/Share-zDj7vkD |           |
-|     | Sofia                            |  WHG                              | https://www.booking.com/Share-zDj7vkD
-|     |                                  |  WHG oder Bsp                     | https://www.airbnb.ch/rooms/1196360940180739495?check_in=2026-08-27&check_out=2026-08-30&guests=1&adults=2&s=67&unique_share_id=fffb28e3-efba-441a-8cdb-c4757234a374  |           |
+|     | Sofia                            |  WHG                              | https://www.airbnb.ch/rooms/1196360940180739495 | |
 |     | Krusevac                         |  Garni Hotel Biser                | https://www.booking.com/Share-nkRMxtz |           |
 |     | Dolna Banja                      |  Hotel Nikol                      | https://www.booking.com/Share-W6LcxWr |           |
 |     | Plowdiw                          |  Hotel Family                     | https://www.booking.com/Share-UWbtZhx |           |
