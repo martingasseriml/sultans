@@ -18,8 +18,6 @@
 | 17.08.26    | Osijek                           | Rooms, 3 Bett                     | https://www.booking.com/Share-NyewmQ  |  96 CHF   |
 | 18.08.26    | Bačka Palanka                    | Hotel, 1 Zimmer, FS inkl          | https://www.booking.com/Share-l7qhFB  |  60 CHF   |
 | 19.08.26    | Novi Sad                         | Haus, 3 Bett, FS inkl             | https://www.booking.com/Share-LH9H4xn |  90 CHF   |
-| 20./21.08.26, 2 Nächte    | Belgrad            | Wohnung, 3 Bett                   | https://www.booking.com/Share-BZnausC |  70 CHF   |
-| oder        |                                  |            |                                       |             |
 | 20./21.08.26, 2 Nächte    | Belgrad            | Hausboot, 3 Bett Apart, FS inkl   | https://www.booking.com/Share-yjLLGo  |  88 CHF   |
 
 
