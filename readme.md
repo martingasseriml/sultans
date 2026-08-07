@@ -42,6 +42,12 @@
 | 0   | Belgrad                          | SRB       |     | 0         |                 | Sa 22.08.26 |
 | 13  | Belgrad - Smederevska Palanka    | SRB - SRB | 111 | 1160      | [Strecke in GPX.Studio ansehen](https://gpx.studio/de/app?files=%5B%22https%3A%2F%2Fraw.githubusercontent.com%2Fmartingasseriml%2Fsultans%2Fmain%2Fteil2%2Fst_13.gpx%22%5D) | So 23.8.26 |
 | 14  | Smederevska Palanka - Krusevac   | SRB - SRB | 118 | 620      | [Strecke in GPX.Studio ansehen](https://gpx.studio/de/app?files=%5B%22https%3A%2F%2Fraw.githubusercontent.com%2Fmartingasseriml%2Fsultans%2Fmain%2Fteil2%2Fst_14.gpx%22%5D) | Mo 24.8.26 |
+|-----|----------------------------------|-----------|-----|-----------|-----------------|-------------|
+oder in 3 Etappen
+|-----|----------------------------------|-----------|-----|-----------|-----------------|-------------|
+| 13a  | Belgrad - Smederevo             | SRB - SRB | 62  | 690       | [Strecke in GPX.Studio ansehen](https://gpx.studio/de/app?files=%5B%22https%3A%2F%2Fraw.githubusercontent.com%2Fmartingasseriml%2Fsultans%2Fmain%2Fteil2%2Fst_13a.gpx%22%5D)                | Sa 22.08.26 |
+| 13b  | Smederevo - Jagodina            | SRB - SRB | 98  | 770       | [Strecke in GPX.Studio ansehen](https://gpx.studio/de/app?files=%5B%22https%3A%2F%2Fraw.githubusercontent.com%2Fmartingasseriml%2Fsultans%2Fmain%2Fteil2%2Fst_13b.gpx%22%5D) | So 23.8.26 |
+| 14b  | Jagodina - Krusevac             | SRB - SRB | 58  | 310       | [Strecke in GPX.Studio ansehen](https://gpx.studio/de/app?files=%5B%22https%3A%2F%2Fraw.githubusercontent.com%2Fmartingasseriml%2Fsultans%2Fmain%2Fteil2%2Fst_14a.gpx%22%5D) | Mo 24.8.26 |
 | 15  | Krusevac - Niš                   | SRB - SRB | 79  | 490      | [Strecke in GPX.Studio ansehen](https://gpx.studio/de/app?files=%5B%22https%3A%2F%2Fraw.githubusercontent.com%2Fmartingasseriml%2Fsultans%2Fmain%2Fteil2%2Fst_15.gpx%22%5D) | Di 25.8.26 |
 | 16  | Niš - Dimitrovgrad               | SRB - SRB | 103  | 980      | [Strecke in GPX.Studio ansehen](https://gpx.studio/de/app?files=%5B%22https%3A%2F%2Fraw.githubusercontent.com%2Fmartingasseriml%2Fsultans%2Fmain%2Fteil2%2Fst_16.gpx%22%5D) | Mi 26.8.26 |
 | 17  | Dimitrovgrad - Sofia             | SRB - BGR | 68   | 470      | [Strecke in GPX.Studio ansehen](https://gpx.studio/de/app?files=%5B%22https%3A%2F%2Fraw.githubusercontent.com%2Fmartingasseriml%2Fsultans%2Fmain%2Fteil2%2Fst_17.gpx%22%5D) | Do 27.8.26, Grenzübertritt |
